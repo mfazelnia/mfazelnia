@@ -2,8 +2,9 @@
 
 
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mfazelnia/)
-[![Website](https://img.shields.io/badge/Website-Click_Here-green?style=for-the-badge)](https://mfazelnia.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=flat&logo=About.me&logoColor=white)](https://yourwebsite.com)
+
 
 ## Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
