@@ -21,8 +21,10 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-%230078D4.svg?style=flat&logo=mathworks&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 ![Kubeflow](https://img.shields.io/badge/Kubeflow-%230070B5.svg?style=flat&logo=kubeflow&logoColor=white)
-
 
 
 <!--
