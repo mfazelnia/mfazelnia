@@ -18,6 +18,9 @@
 ![LangChain](https://img.shields.io/badge/LangChain-%2300A66C.svg?style=flat&logo=LangChain&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-%230078D4.svg?style=flat&logo=mathworks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=flat&logo=postgresql&logoColor=white)
+![Kubeflow](https://img.shields.io/badge/Kubeflow-%230070B5.svg?style=flat&logo=kubeflow&logoColor=white)
 
 
 
