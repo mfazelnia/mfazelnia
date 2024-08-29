@@ -3,7 +3,7 @@
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=flat&logo=GitHub&logoColor=blue&color=orange&labelColor=blue)](https://yourwebsite.com)
+[![My Personal Website](https://img.shields.io/badge/My_Personal_Website-%23000000.svg?style=flat&logo=GitHub&logoColor=blue&color=orange&labelColor=blue)](https://mfazelnia.github.io)
 
 
 ## Tech Stack:
