@@ -3,7 +3,7 @@
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=flat&logo=About.me&logoColor=white)](https://yourwebsite.com)
+[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=flat&logo=GitHub&logoColor=blue&color=orange&labelColor=blue)](https://yourwebsite.com)
 
 
 ## Tech Stack:
@@ -13,6 +13,9 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+[![Amazon S3](https://img.shields.io/badge/Amazon_S3-%23569A31.svg?style=flat&logo=Amazon%20S3&logoColor=white)](https://yourwebsite.com)
+[![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-%23FF9900.svg?style=flat&logo=Amazon%20EC2&logoColor=white)](https://yourwebsite.com)
+[![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-%2300A3E0.svg?style=flat&logo=Amazon%20Bedrock&logoColor=white)](https://yourwebsite.com)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
