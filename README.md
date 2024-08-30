@@ -2,7 +2,7 @@
 
 
 ## Socials:
-[![Click Here to Check Out My Personal Website](https://img.shields.io/badge/My_Personal_Website-%23000000.svg?style=flat&logo=GitHub&logoColor=orange&color=orange&labelColor=orange)](https://mfazelnia.github.io)
+[![My Personal Website](https://img.shields.io/badge/My_Personal_Website-%23000000.svg?style=flat&logo=GitHub&logoColor=orange&color=orange&labelColor=orange)](https://mfazelnia.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
 
