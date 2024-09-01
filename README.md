@@ -24,7 +24,6 @@
 ![LangChain](https://img.shields.io/badge/LangChain-%2300A66C.svg?style=flat&logo=LangChain&logoColor=white)
 [![spaCy](https://img.shields.io/badge/spaCy-09A3D5.svg?style=flat&logo=spacy&logoColor=white)](https://spacy.io)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=flat&logo=opencv&logoColor=white)](https://opencv.org)
-[![spaCy](https://img.shields.io/badge/spaCy-09A3D5.svg?style=flat&logo=spacy&logoColor=white)](https://spacy.io)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-%230078D4.svg?style=flat&logo=mathworks&logoColor=white)
